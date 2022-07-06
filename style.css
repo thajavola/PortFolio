@@ -127,7 +127,7 @@ section .title::after{
 }
 .navbar .menu li a{
     display: block;
-    color: rgb(158, 158, 158);
+    color: black;
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
@@ -576,7 +576,7 @@ footer span a:hover{
         width: 100%;
         left: -100%;
         top: 0;
-        background: #111;
+        background: #0a80af;
         text-align: center;
         padding-top: 80px;
         transition: all 0.3s ease;
