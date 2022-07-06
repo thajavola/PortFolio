@@ -42,7 +42,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Concepteur d'application.", "Développeur Back-End.", "Développeur Front-End.", "Administrateur Système et Réseaux.", "Musicien."],
+        strings: ["Concepteur d'applications.", "Développeur Back-End.", "Développeur Front-End.", "Administrateur Système et Réseaux.", "Musicien."],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
