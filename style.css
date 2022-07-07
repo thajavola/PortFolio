@@ -121,7 +121,7 @@ section .title::after{
     font-style:oblique;
 }
 .navbar.sticky .logo a span{
-    color: #fff;
+    color: black;
 }
 .navbar .menu li{
     list-style: none;
