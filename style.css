@@ -116,7 +116,9 @@ section .title::after{
 }
 .navbar .logo a span{
     color: #0a80af;
+    font-size: 40px;
     transition: all 0.3s ease;
+    font-style:oblique;
 }
 .navbar.sticky .logo a span{
     color: #fff;
